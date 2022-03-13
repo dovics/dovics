@@ -1,10 +1,6 @@
 # Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 My name is ***Rushen Wang***. I'm a Fullstack software engineer. 
-## &#x270d; Blog & Writing
-
-Apart from coding, I also maintain a blog - you can find my articles on my website at [yuque](https://www.yuque.com/dovics).
-
 <details close>
 <summary><strong>:label: Check my current status</strong></summary>
 
@@ -19,6 +15,10 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 </p>
 
 </details>
+
+### &#x270d; Blog & Writing
+
+Apart from coding, I also maintain a blog - you can find my articles on my [yuque](https://www.yuque.com/dovics).
 
 ### Contact
 
