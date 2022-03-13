@@ -1,16 +1,39 @@
-### Hi there 👋
+# Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<!--
-**dovics/dovics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is ***Rushen Wang***. <br>
+I'm a Fullstack software engineer. 
+## &#x270d; Blog & Writing
 
-Here are some ideas to get you started:
+Apart from coding, I also maintain a blog - you can find my articles on my website at [yuque](https://www.yuque.com/dovics).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details close>
+<summary><strong>:label: Check my current status</strong></summary>
+
+- :man_scientist: Trying to become a programming master.
+- :books: Have been studying hard.
+- :thinking: I am currently working as a backend developer.
+- :computer: Thinking, Coding, Writing
+
+<p align="center">
+<img height="200" src="https://github-readme-stats.vercel.app/api?username=dovics&count_private=true&show_icons=true"/>
+<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dovics&hide=html,jupyter+notebook&count_private=true&show_icons=true"/>
+</p>
+
+</details>
+
+### Contact
+
+Want to communicate with me? No problem, I am happy to share my knowledge, experience and insights with you.
+
+<details close>
+<summary><strong>:eyes: See my contact information</strong></summary>
+
+- GitHub - [@dovics](https://github.com/dovics)
+- Yuque - [@dovics](https://yuque.com/dovics)
+- WeChat - wangrs1999
+- Twitter - [@wangrushen](https://twitter.com/wangrushen)
+- Email - <wrs369@88.com>
+
+</details>
+
+![Profile views](https://gpvc.arturio.dev/dovics)
