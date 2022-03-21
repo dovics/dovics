@@ -1,6 +1,11 @@
 # Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 My name is ***Rushen Wang***. I'm a Fullstack software engineer. 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=go,kubernetes,docker,rust,flutter,js,react,mysql,postgres,redis" />
+  </a>
+</p>
 <details close>
 <summary><strong>:label: Check my current status</strong></summary>
 
